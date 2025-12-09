@@ -19,4 +19,10 @@ The objective of this project is to create an interactive call centre dashboard 
 -	How many unique customers were served during the period?
 
 
+## Dashboard
+- <a href ="https://github.com/ishuravi001/DATA---ANALYSIS--DASHBOARD/blob/main/CALL%20CENTRE%20SUMMARY%20DASHBOARD.png">Dataset </a>
+
+
+
+
 
