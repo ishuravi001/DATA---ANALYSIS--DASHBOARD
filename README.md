@@ -34,6 +34,18 @@ The objective of this project is to create an interactive call centre dashboard 
 - <a href ="https://github.com/ishuravi001/DATA---ANALYSIS--DASHBOARD/blob/main/CALL%20CENTRE%20SUMMARY%20DASHBOARD.png">Dashboard </a>
 <img width="1832" height="635" alt="CALL CENTRE SUMMARY DASHBOARD" src="https://github.com/user-attachments/assets/d4090ab8-7397-4a88-8ed3-4a856e9ad1fa" />
 
+## Project Insights
+-	Call volume shows clear monthly trends with peak activity during specific periods.
+-	Cleveland contributes the highest number of calls and revenue among all regions.
+-	Male callers slightly outnumber female callers across most locations.
+-	Higher customer ratings align with periods of increased call handling efficiency.
+-	Certain representatives consistently generate higher revenue, indicating strong performance.
+
+## Final Conclusion
+-	The Call Centre Summary Dashboard effectively consolidates critical performance data into a single, easy-to-understand view. It enables quick analysis of call trends, regional and agent performance, and customer satisfaction levels. By providing actionable insights, the dashboard supports data-driven decision-making, improves operational efficiency, and helps enhance overall customer experience.
+
+
+
 
 
 
